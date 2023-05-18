@@ -22,7 +22,7 @@ Here are a few screenshots of the application's user interface:
 
 Click the image below to watch an image of the video streaming of the Netflix clone:
 
-![Netflix Clone Video Demonstration](./screenshots/Screenshot2png)
+![Netflix Clone Video Demonstration](./screenshots/Screenshot2.png)
 
 ## Project Structure
 
