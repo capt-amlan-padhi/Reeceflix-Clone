@@ -72,6 +72,3 @@ This project is built for educational purposes and is not meant for production.
 
 MIT
 
----
-
-You just need to replace "yourusername" with your actual GitHub username in the `git clone` command. The screenshot and video links also need to be replaced with the actual paths to your screenshot and video files.
