@@ -15,14 +15,14 @@ Here are a few screenshots of the application's user interface:
 ![Screenshot 1](./screenshots/Screenshot1.png)
 *Description of Screenshot 1*
 
-![Screenshot 2](./screenshots/Screenshot2.png)
+![Screenshot 2](./screenshots/Screenshot3.png)
 *Description of Screenshot 2*
 
 ## Video Demonstration
 
 Click the image below to watch an image of the video streaming of the Netflix clone:
 
-![Netflix Clone Video Demonstration](././screenshots/Screenshot3png)
+![Netflix Clone Video Demonstration](./screenshots/Screenshot2png)
 
 ## Project Structure
 
