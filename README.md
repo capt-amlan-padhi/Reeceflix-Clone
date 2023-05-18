@@ -13,10 +13,10 @@ This project mimics the main features of Netflix, such as browsing movies and sh
 Here are a few screenshots of the application's user interface:
 
 ![Screenshot 1](./screenshots/Screenshot1.png)
-*Description of Screenshot 1*
+
 
 ![Screenshot 2](./screenshots/Screenshot3.png)
-*Description of Screenshot 2*
+
 
 ## Video Demonstration
 
